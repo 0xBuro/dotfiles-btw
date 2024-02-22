@@ -1,0 +1,24 @@
+{
+  "workbench.colorTheme": "Tokyo Night",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "tabnine.experimentalAutoImports": true,
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "php.validate.executablePath": "",
+  "workbench.iconTheme": "simple-icons",
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.fontFamily": "Maple Mono SC NF",
+  "editor.fontSize": 14,
+  "terminal.integrated.fontSize": 11,
+  "window.zoomLevel": 2,
+  "terminal.integrated.fontFamily": "Maple Mono SC NF",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "markdown-preview-enhanced.codeBlockTheme": "github.css",
+  "markdown-preview-enhanced.previewTheme": "github-light.css",
+  "workbench.settings.applyToAllProfiles": []
+}
